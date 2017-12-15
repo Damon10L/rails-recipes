@@ -19,5 +19,20 @@
 # To learn more, please read the Rails Internationalization guide
 # available at http://guides.rubyonrails.org/i18n.html.
 
-en:
-  hello: "Hello world"
+"en":
+  hello: "Hi %{name},"
+
+"en":
+  event_list: Event list
+  title: Fullstack Rails Recipes
+  overview: Overview
+  a_panel: Admin Panel
+  change_password: Change Password
+  logout: Logout
+  login: Login
+  signup: Sign up
+  admin:
+    event_list: Event list
+    change_password: Change Password
+    logout: Logout
+    back: Back
